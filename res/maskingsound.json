@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fireplace",
+    "name": "Fireplace",
+    "url": "https://gwkiwi.pro/res/fireplace.mp3"
+  },
+  {
+    "id": "forest",
+    "name": "Forest",
+    "url": "https://gwkiwi.pro/res/forest.mp3"
+  },
+  {
+    "id": "leaves",
+    "name": "Leaves",
+    "url": "https://gwkiwi.pro/res/leaves.mp3"
+  },
+  {
+    "id": "oceanwaves",
+    "name": "OceanWaves",
+    "url": "https://gwkiwi.pro/res/oceanwaves.mp3"
+  },
+  {
+    "id": "rain",
+    "name": "Rain",
+    "url": "https://gwkiwi.pro/res/rain.mp3"
+  },
+  {
+    "id": "rainontent",
+    "name": "RainOnTent",
+    "url": "https://gwkiwi.pro/res/rainontent.mp3"
+  },
+  {
+    "id": "seaside",
+    "name": "Seaside",
+    "url": "https://gwkiwi.pro/res/seaside.mp3"
+  },
+  {
+    "id": "summernight",
+    "name": "SummerNight",
+    "url": "https://gwkiwi.pro/res/summernight.mp3"
+  },
+  {
+    "id": "thunderstorm",
+    "name": "Thunderstorm",
+    "url": "https://gwkiwi.pro/res/thunderstorm.mp3"
+  },
+  {
+    "id": "train",
+    "name": "Train",
+    "url": "https://gwkiwi.pro/res/train.mp3"
+  },
+  {
+    "id": "tropicalforest",
+    "name": "TropicalForest",
+    "url": "https://gwkiwi.pro/res/tropicalforest.mp3"
+  },
+  {
+    "id": "water",
+    "name": "Water",
+    "url": "https://gwkiwi.pro/res/water.mp3"
+  },
+  {
+    "id": "waterfall",
+    "name": "Waterfall",
+    "url": "https://gwkiwi.pro/res/waterfall.mp3"
+  },
+  {
+    "id": "waterstream",
+    "name": "WaterStream",
+    "url": "https://gwkiwi.pro/res/waterstream.mp3"
+  },
+  {
+    "id": "whitenoise",
+    "name": "WhiteNoise",
+    "url": "https://gwkiwi.pro/res/whitenoise.mp3"
+  },
+  {
+    "id": "wind",
+    "name": "Wind",
+    "url": "https://gwkiwi.pro/res/wind.mp3"
+  }
+]
